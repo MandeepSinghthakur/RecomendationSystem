@@ -1,4 +1,4 @@
-# RecomendationSystem
+# Recomendation SystemS
 Recommendation System using Simple Approaces   
     1) Based on the count of reviews.
     2) Based on Co-relation b/w two items
